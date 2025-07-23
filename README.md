@@ -12,4 +12,4 @@
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/generics-tdictionary-no-delphi/
+  https://www.codedelphi.com/2024/11/generics-tdictionary-no-delphi.html
